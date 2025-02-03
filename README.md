@@ -2,6 +2,8 @@
 
 Este projeto foi desenvolvido como parte de um desafio da plataforma DevMedia. Ele utiliza várias tecnologias modernas para construção de aplicações web, como **React**, **JavaScript**, **Node.js**, **Next.js**, **HTML** e **CSS**.
 
+![screencapture-localhost-3000-2025-02-02-21_58_12](https://github.com/user-attachments/assets/3e6dccf8-8563-4d2e-8da8-5504385d0498)
+
 ## Tecnologias Utilizadas
 
 - **React**: Biblioteca JavaScript para construir interfaces de usuário.
