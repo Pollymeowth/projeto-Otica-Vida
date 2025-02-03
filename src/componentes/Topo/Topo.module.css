@@ -1,0 +1,35 @@
+.secaoTopo {
+    background-color: #fff;
+    width: 100%;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+
+.elementosTopo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1024px;
+    padding: 20px;    
+}
+
+.image {
+    width: auto;
+    height: 50px;
+}
+
+.links {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 20px;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.elementosTopo a {
+    text-decoration: none;
+    color: #000000;
+}
